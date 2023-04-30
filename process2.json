@@ -1,0 +1,27 @@
+{
+    "preemptive":{
+        "preemptive":"non_preemptive"
+    },
+    "real-time":{
+        "real-time":"true"
+    },
+    "process" : [
+        {
+            "process_idx" : "0",
+            "burst_time" : "20",
+            "periode" : "50",
+            "arrival_time" : "0",
+            "priority" : "3"
+        },
+        {
+            "process_idx" : "1",
+            "burst_time" : "35",
+            "periode" : "100",
+            "arrival_time" : "0",
+            "priority" : "3"
+
+        }
+    ]
+    
+    
+}
